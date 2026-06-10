@@ -5,6 +5,8 @@ type: dataset
 license: CC-BY-4.0
 version: "0.1"
 date-released: "2026-06-10"
+repository-code: "https://github.com/AuralisLab/ieha-consortium"
+url: "https://github.com/AuralisLab/ieha-consortium"
 authors:
   - family-names: "Martínez Cisneros"
     given-names: "Pedro"
