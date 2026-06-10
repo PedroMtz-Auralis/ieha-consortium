@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.Rhistory
+__pycache__/
+# Datos de sitio (no versionar datos reales)
+data/site_*/
+*_raw.csv

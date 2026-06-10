@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Acoustic Habitability Erosion Index (IEH-A) — Distributed Validation Consortium"
+message: "If you use this instrument or its materials, please cite the instrument and the seminal paper below."
+type: dataset
+license: CC-BY-4.0
+version: "0.1"
+date-released: "2026-06-10"
+authors:
+  - family-names: "Martínez Cisneros"
+    given-names: "Pedro"
+    affiliation: "Universidad Autónoma de Ciudad Juárez, Mexico"
+    email: "pedro.cisneros@uacj.mx"
+  - family-names: "Sánchez Flores"
+    given-names: "Erick"
+    affiliation: "Universidad Autónoma de Ciudad Juárez, Mexico"
+    email: "esanchez@uacj.mx"
+abstract: >
+  The Acoustic Habitability Erosion Index (IEH-A) is a research instrument that
+  measures the contraction of an inhabitant's practical world under sustained
+  urban-noise exposure — a dimension not captured by clinical noise scales or
+  soundscape descriptors. This repository opens the instrument as a common
+  protocol for a distributed, multi-context validation consortium.
+keywords:
+  - urban soundscape
+  - acoustic habitability
+  - urban noise
+  - measurement invariance
+  - distributed validation
+references:
+  - type: conference-paper
+    title: >
+      Índice de Erosión del Habitar Acústico (IEH-A): instrumento para el
+      diagnóstico diferencial de la exposición a ruido urbano
+    authors:
+      - family-names: "Martínez Cisneros"
+        given-names: "Pedro"
+      - family-names: "Sánchez Flores"
+        given-names: "Erick"
+    conference:
+      name: "XIV Congreso Iberoamericano de Acústica (FIA 2026)"
+    location: "Lima, Peru"
+    year: 2026
