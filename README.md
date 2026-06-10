@@ -4,7 +4,7 @@
 > **Una invitación abierta.** El **Índice de Erosión del Habitar Acústico (IEH-A)** es un instrumento que mide una dimensión del impacto del ruido urbano crónico que las escalas clínicas y los descriptores de paisaje sonoro no capturan: la **contracción del mundo práctico** del habitante (actividades, proyecciones y prácticas de cuidado que se erosionan cuando el sujeto declara haberse "acostumbrado" y los indicadores clínicos no detectan alteración). Este repositorio abre el instrumento como **protocolo común** e invita a equipos de investigación de distintos territorios a **aplicarlo, mejorarlo y validarlo** en sus contextos.
 
 **Coordinación:** P. Martínez Cisneros · E. Sánchez Flores (Universidad Autónoma de Ciudad Juárez, México).
-**Repositorio alojado por:** Auralis Lab — `github.com/AuralisLab/ieha-consortium` · auralislab.com
+**Repositorio alojado por:** Auralis Lab — `github.com/PedroMtz-Auralis/ieha-consortium` · auralislab.com
 **Estado del instrumento:** v0.1 pre-calibrada (calibración cognitiva inicial, Ciudad Juárez). La consolidación a **v0.2** se co-desarrolla con el consorcio.
 **Presentado en:** XIV Congreso Iberoamericano de Acústica (FIA 2026), Lima, Perú.
 **Licencia:** [CC BY 4.0](LICENSE) (uso libre con atribución).
