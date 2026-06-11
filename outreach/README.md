@@ -5,6 +5,7 @@ Suplementos que dan contexto al instrumento y proyectan el valor del consorcio, 
 | # | Material | Archivo | Para qué |
 |---|---|---|---|
 | **P1** | One-pager (ES/EN) | [`one_pager_IEHA.md`](one_pager_IEHA.md) | Repartir / QR en el congreso. Dispositivo de conversión. |
+| **P2** | Lámina-resumen (graphical abstract) | [`lamina_resumen/README.md`](lamina_resumen/README.md) | Síntesis gráfica en pantalla del instrumento + consorcio. Suplemento de lectura del repositorio. |
 | **P3** | Outcomes proyectados (datos sintéticos) | [`projected_outcomes/projected_outcomes_report.md`](projected_outcomes/projected_outcomes_report.md) | Mostrar qué evidencia *podría* producir la validación. Visión del payoff. |
 
 > Los materiales de **producción** (prompts de generación de imágenes, guion/handoff de video) son herramientas internas de Auralis Lab y **no** se versionan en este repositorio público.
