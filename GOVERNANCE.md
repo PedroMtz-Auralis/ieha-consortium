@@ -12,7 +12,7 @@ El consorcio es una iniciativa científica de su **coordinador fundador** y de l
 
 | Rol | Quién | Función |
 |---|---|---|
-| **Coordinación fundadora** | P. Martínez Cisneros (UACJ, México), fundador del consorcio | Mantiene el protocolo común y el repositorio; convocan decisiones; consolidan el conjunto de datos *pooled*; lideran los productos de validación multi-sitio. |
+| **Coordinación fundadora** | P. Martínez Cisneros (UACJ, México), fundador del consorcio | Mantiene el protocolo común y el repositorio; convoca decisiones; consolida el conjunto de datos *pooled*; lidera los productos de validación multi-sitio. |
 | **Investigador/a principal (PI) de sitio** | Responsable de cada equipo participante | Obtiene la aprobación ética en su jurisdicción; aplica el protocolo común; entrega datos armonizados y anonimizados; participa en decisiones del consorcio. |
 | **Comité directivo (steering)** | Coordinación + PIs de sitio activos | Se constituye cuando hay ≥ 3 sitios activos; decide versiones del instrumento, plan analítico y productos. |
 

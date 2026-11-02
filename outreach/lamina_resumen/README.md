@@ -28,7 +28,7 @@ El gancho que une todo: **"clínicamente sano, mundo encogido"** (el Perfil 3).
 ## Guardrails (lectura obligatoria)
 
 - Los **outcomes** mostrados en la lámina (prevalencia del Perfil 3, invarianza por ítem) son **datos sintéticos rotulados "ILUSTRATIVO"** — coherentes con [`../projected_outcomes/`](../projected_outcomes/). **No son resultados** y no deben citarse como hallazgos.
-- Encuadre: **consorcio fundado y coordinado por P. Martínez Cisneros** (Auralis Lab); el artículo de FIA 2026 que presentó el instrumento es de Martínez Cisneros y Sánchez Flores; sin inferencia doctoral, sin aprobación ética inventada.
+- Encuadre: **consorcio fundado y coordinado por P. Martínez Cisneros** (Auralis Lab); el artículo de FIA 2026 que presentó el instrumento es de Martínez Cisneros y Sánchez Flores.
 - La calibración inicial reportada corresponde al **pretest cognitivo de Auralis Lab** (v0.1); la validación distribuida es, precisamente, lo que el consorcio convoca.
 
 ## Variantes y procedencia
