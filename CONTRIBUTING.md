@@ -4,7 +4,7 @@ Guía operativa para sumar un sitio a la validación distribuida. Versión 1.0 �
 
 ## Ruta de incorporación (paso a paso)
 
-1. **Expresa interés.** Abre un *issue* con la plantilla [*Expression of interest*](.github/ISSUE_TEMPLATE/expression_of_interest.md) o escribe a la coordinación (pedro.cisneros@uacj.mx · esanchez@uacj.mx). Indica equipo, institución, ciudad/contexto, idioma y rango de aplicación previsto.
+1. **Expresa interés.** Abre un *issue* con la plantilla [*Expression of interest*](.github/ISSUE_TEMPLATE/expression_of_interest.md) o escribe a la coordinación (pedro.cisneros@uacj.mx). Indica equipo, institución, ciudad/contexto, idioma y rango de aplicación previsto.
 2. **Acepta las condiciones.** Lee y acepta [GOVERNANCE.md](GOVERNANCE.md), [AUTHORSHIP.md](AUTHORSHIP.md) y [ETHICS.md](ETHICS.md).
 3. **Obtén aprobación ética local.** Gestiona la aprobación de tu institución/país (modelo per-sitio, [ETHICS.md](ETHICS.md)). **No apliques el instrumento antes de tenerla.**
 4. **Prepara la versión local del instrumento.** Parte de la **línea base común** (v0.2 cuando esté disponible; v0.1 entretanto) y aplica la [guía de traducción y adaptación](instrument/translation_adaptation_guidelines.md). Documenta toda adaptación.

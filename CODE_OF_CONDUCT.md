@@ -17,6 +17,6 @@ El consorcio es un espacio de colaboración científica respetuoso e inclusivo, 
 
 ## Aplicación
 
-Reportes a la coordinación (pedro.cisneros@uacj.mx · esanchez@uacj.mx) o, si se prefiere, a cualquier miembro del comité directivo. Se tratan con confidencialidad. Las faltas graves pueden derivar en la suspensión de la participación, por decisión del comité directivo.
+Reportes a la coordinación (pedro.cisneros@uacj.mx) o, si se prefiere, a cualquier miembro del comité directivo. Se tratan con confidencialidad. Las faltas graves pueden derivar en la suspensión de la participación, por decisión del comité directivo.
 
 Inspirado en el espíritu del *Contributor Covenant* (v2.1), adaptado a un consorcio de investigación.

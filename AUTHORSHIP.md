@@ -18,7 +18,7 @@ La sola provisión de fondos, infraestructura o supervisión administrativa **no
 
 ## Orden de autoría
 
-- **Coordinación fundadora** (P. Martínez Cisneros, E. Sánchez Flores): lideran la concepción del instrumento y la coordinación de la red → posiciones de liderazgo (primer/correspondencia y senior) en el artículo principal de validación, salvo acuerdo distinto del comité directivo.
+- **Coordinación fundadora** (P. Martínez Cisneros): lidera la concepción del instrumento y la coordinación de la red → posiciones de liderazgo (primer/correspondencia y senior) en el artículo principal de validación, salvo acuerdo distinto del comité directivo.
 - **PIs de sitio**: orden por magnitud y calidad de la contribución (tamaño y calidad del aporte de datos, peso analítico), acordado por el comité directivo **antes** de la redacción final.
 - **Contribución colectiva**: se reconoce la autoría grupal "**IEH-A Consortium**" cuando el número de sitios lo justifique, con los individuos listados.
 

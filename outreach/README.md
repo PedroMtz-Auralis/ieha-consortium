@@ -10,6 +10,6 @@ Suplementos que dan contexto al instrumento y proyectan el valor del consorcio, 
 
 > Los materiales de **producción** (prompts de generación de imágenes, guion/handoff de video) son herramientas internas de Auralis Lab y **no** se versionan en este repositorio público.
 
-**Guardrails comunes:** viñetas = ilustraciones conceptuales (no participantes reales) · figuras P3 = datos sintéticos rotulados (no resultados) · encuadre de estudio de dos investigadores, sin inferencia doctoral, sin aprobación ética inventada.
+**Guardrails comunes:** viñetas = ilustraciones conceptuales (no participantes reales) · figuras P3 = datos sintéticos rotulados (no resultados) · consorcio fundado y coordinado por P. Martínez Cisneros, sin inferencia doctoral, sin aprobación ética inventada.
 
 > El gancho que une todo: **"clínicamente sano, mundo encogido"** (el Perfil 3) — la población que nadie cuenta.

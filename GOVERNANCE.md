@@ -1,18 +1,18 @@
 # Gobernanza del Consorcio IEH-A
 
-Documento vinculante para todo equipo participante. Define cómo se administra el consorcio, quién decide qué, y bajo qué condiciones se desarrolla y versiona el instrumento. Versión 1.0 · 2026-06.
+Documento vinculante para todo equipo participante. Define cómo se administra el consorcio, quién decide qué, y bajo qué condiciones se desarrolla y versiona el instrumento. Versión 1.1 · 2026-11 (la coordinación fundadora es unipersonal; v1.0 · 2026-06).
 
 ## 1. Naturaleza y propósito
 
 El Consorcio IEH-A es una **red de investigación abierta y horizontal** cuyo propósito es **validar, adaptar y mejorar** el Índice de Erosión del Habitar Acústico (IEH-A) en múltiples contextos territoriales, mediante un protocolo común aplicado de forma distribuida (ensayo inter-territorial tipo *round-robin*).
 
-El consorcio es una iniciativa científica de sus **coordinadores fundadores** y de los **equipos participantes**; no representa ni compromete a ninguna institución, y no constituye un órgano con personalidad jurídica. Cada equipo participa a título de su propia adscripción y bajo su propia responsabilidad.
+El consorcio es una iniciativa científica de su **coordinador fundador** y de los **equipos participantes**; no representa ni compromete a ninguna institución, y no constituye un órgano con personalidad jurídica. Cada equipo participa a título de su propia adscripción y bajo su propia responsabilidad.
 
 ## 2. Roles
 
 | Rol | Quién | Función |
 |---|---|---|
-| **Coordinación fundadora** | P. Martínez Cisneros · E. Sánchez Flores (UACJ, México) | Mantienen el protocolo común y el repositorio; convocan decisiones; consolidan el conjunto de datos *pooled*; lideran los productos de validación multi-sitio. |
+| **Coordinación fundadora** | P. Martínez Cisneros (UACJ, México), fundador del consorcio | Mantiene el protocolo común y el repositorio; convocan decisiones; consolidan el conjunto de datos *pooled*; lideran los productos de validación multi-sitio. |
 | **Investigador/a principal (PI) de sitio** | Responsable de cada equipo participante | Obtiene la aprobación ética en su jurisdicción; aplica el protocolo común; entrega datos armonizados y anonimizados; participa en decisiones del consorcio. |
 | **Comité directivo (steering)** | Coordinación + PIs de sitio activos | Se constituye cuando hay ≥ 3 sitios activos; decide versiones del instrumento, plan analítico y productos. |
 

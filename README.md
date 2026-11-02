@@ -3,7 +3,7 @@
 
 > **Una invitación abierta.** El **Índice de Erosión del Habitar Acústico (IEH-A)** es un instrumento que mide una dimensión del impacto del ruido urbano crónico que las escalas clínicas y los descriptores de paisaje sonoro no capturan: la **contracción del mundo práctico** del habitante (actividades, proyecciones y prácticas de cuidado que se erosionan cuando el sujeto declara haberse "acostumbrado" y los indicadores clínicos no detectan alteración). Este repositorio abre el instrumento como **protocolo común** e invita a equipos de investigación de distintos territorios a **aplicarlo, mejorarlo y validarlo** en sus contextos.
 
-**Coordinación:** P. Martínez Cisneros · E. Sánchez Flores (Universidad Autónoma de Ciudad Juárez, México).
+**Fundador y coordinador:** P. Martínez Cisneros (Universidad Autónoma de Ciudad Juárez, México).
 **Repositorio alojado por:** Auralis Lab — `github.com/PedroMtz-Auralis/ieha-consortium` · auralislab.com
 **Estado del instrumento:** v0.1 pre-calibrada (calibración cognitiva inicial, Ciudad Juárez). La consolidación a **v0.2** se co-desarrolla con el consorcio.
 **Presentado en:** XIV Congreso Iberoamericano de Acústica (FIA 2026), Lima, Perú.
@@ -44,7 +44,7 @@ Por eso proponemos un **ensayo inter-territorial tipo *round-robin***: un **prot
 - **Co-autoría por contribución:** aplicar el protocolo común + aportar datos armonizados = co-autoría del artículo de validación multi-sitio.
 - **Instrumento de investigación, no de diagnóstico clínico:** el IEH-A no es una herramienta diagnóstica individual.
 
-**Contacto coordinación:** pedro.cisneros@uacj.mx · esanchez@uacj.mx
+**Contacto coordinación:** pedro.cisneros@uacj.mx
 
 ---
 
@@ -52,4 +52,4 @@ Por eso proponemos un **ensayo inter-territorial tipo *round-robin***: un **prot
 
 The **Acoustic Habitability Erosion Index (IEH-A)** measures a dimension of chronic urban-noise impact that clinical scales and soundscape descriptors miss: the **contraction of the inhabitant's practical world**. This repository opens the instrument as a **common protocol** and invites research teams across territorial contexts to **apply, improve and validate** it. Because *dwelling*, *care* and *daily activity* are culturally and territorially mediated, the central question — **does the IEH-A measure the same construct across populations of different origin and context? (measurement invariance)** — calls for a **distributed, round-robin design**: a common protocol applied in many contexts with harmonized, comparable data. Participation works by **per-site ethics** (each team secures its own approval) and **contribution-based co-authorship** of the pooled multi-site validation. See [`GOVERNANCE.md`](GOVERNANCE.md), [`AUTHORSHIP.md`](AUTHORSHIP.md), [`ETHICS.md`](ETHICS.md) and [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-*Coordination: P. Martínez Cisneros & E. Sánchez Flores (UACJ, Mexico). Instrument v0.1 (pre-calibrated). Licensed CC BY 4.0.*
+*Founder and coordinator: P. Martínez Cisneros (UACJ, Mexico). Instrument v0.1 (pre-calibrated). Licensed CC BY 4.0.*

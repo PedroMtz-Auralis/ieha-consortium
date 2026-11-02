@@ -23,7 +23,7 @@ Qué cuenta como *habitar*, *cuidado* u *ocupación* está mediado por la cultur
 
 ### Súmate
 **`github.com/PedroMtz-Auralis/ieha-consortium`** · `[QR aquí]`
-Coordinación: pedro.cisneros@uacj.mx · esanchez@uacj.mx · Auralis Lab — auralislab.com
+Coordinación: pedro.cisneros@uacj.mx · Auralis Lab — auralislab.com
 
 ---
 
@@ -45,8 +45,8 @@ What counts as *dwelling*, *care* or *daily activity* is culturally and territor
 
 ### Get involved
 **`github.com/PedroMtz-Auralis/ieha-consortium`** · `[QR here]`
-Coordination: pedro.cisneros@uacj.mx · esanchez@uacj.mx · Auralis Lab — auralislab.com
+Coordination: pedro.cisneros@uacj.mx · Auralis Lab — auralislab.com
 
 ---
 
-*P. Martínez Cisneros & E. Sánchez Flores · Presentado en el XIV Congreso Iberoamericano de Acústica (FIA 2026), Lima · Instrumento v0.1 · CC BY 4.0.*
+*Consorcio IEH-A · fundador y coordinador: P. Martínez Cisneros · Instrumento presentado en el XIV Congreso Iberoamericano de Acústica (FIA 2026), Lima (Martínez Cisneros y Sánchez Flores) · Instrumento v0.1 · CC BY 4.0.*
