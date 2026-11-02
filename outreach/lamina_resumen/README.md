@@ -10,16 +10,15 @@ Material complementario al manuscrito FIA 2026 · Consorcio IEH-A · Auralis Lab
 
 ## Cómo leer la lámina
 
-La pieza recorre el argumento completo del instrumento en ocho módulos:
+La pieza recorre el argumento completo del instrumento en siete módulos:
 
 1. **La zona ciega** — entre la mirada clínica (sueño, estrés) y el paisaje sonoro (calidad percibida) queda un habitante al que las escalas declaran **sano**, pero cuyo mundo se encogió.
 2. **El mundo que se encoge** — la metáfora-ancla: el entorno acústico recorta lo que una persona todavía hace, va y disfruta (selló ventanas, dejó de usar el patio, ya no recibe visitas, piensa en mudarse).
 3. **El instrumento** — 12 ítems · 3 dimensiones (Ocupaciones, Proyecciones, Cuidado) · conducta retrospectiva, no autoevaluación.
-4. **Los cuatro perfiles** — al cruzar estado clínico (PSQI/PSS) con IEH-A, emerge el **Perfil 3: clínicamente sano, habitar erosionado** — *la población que nadie cuenta*.
-5. **Calibración** — el flujo de fases del levantamiento (consentimiento → datos básicos → bloque IEH-A → PSQI → PSS-10 → cierre).
-6. **Outcomes proyectados** — prevalencia del Perfil 3 e invarianza por ítem.
-7. **Red de validación** — la pregunta que solo una red iberoamericana puede responder: *¿mide lo mismo en contextos distintos?*
-8. **Cómo sumarse** — kit abierto (CC BY 4.0) · ética per-sitio · coautoría por contribución · `github.com/PedroMtz-Auralis/ieha-consortium`.
+4. **Los cuatro perfiles** (ilustrativo) — al cruzar estado clínico (PSQI/PSS) con IEH-A, emerge el **Perfil 3: clínicamente sano, habitar erosionado** — *la población que nadie cuenta*.
+5. **Calibración** — el flujo de fases del levantamiento (consentimiento → datos básicos → bloque IEH-A → PSQI → PSS-10 → cierre) y lo que hizo la calibración inicial v0.1: dos rondas de aplicación asistida en ocho hogares, revisión de comprensión y operatividad de los ítems; no produce prevalencias ni comparaciones entre ciudades.
+6. **Red de validación** — la pregunta que solo una red iberoamericana puede responder: *¿mide lo mismo en contextos distintos?*
+7. **Cómo sumarse** — kit abierto (CC BY 4.0) · ética per-sitio · coautoría por contribución · `github.com/PedroMtz-Auralis/ieha-consortium`.
 
 El gancho que une todo: **"clínicamente sano, mundo encogido"** (el Perfil 3).
 
@@ -27,7 +26,7 @@ El gancho que une todo: **"clínicamente sano, mundo encogido"** (el Perfil 3).
 
 ## Guardrails (lectura obligatoria)
 
-- Los **outcomes** mostrados en la lámina (prevalencia del Perfil 3, invarianza por ítem) son **datos sintéticos rotulados "ILUSTRATIVO"** — coherentes con [`../projected_outcomes/`](../projected_outcomes/). **No son resultados** y no deben citarse como hallazgos.
+- La lámina **no muestra resultados**. La dispersión del panel 4 es **ilustrativa** (sintética) y solo explica la lógica de los cuatro perfiles. La versión del 2-nov-2026 retiró el panel de outcomes proyectados.
 - Encuadre: **consorcio fundado y coordinado por P. Martínez Cisneros** (Auralis Lab); el artículo de FIA 2026 que presentó el instrumento es de Martínez Cisneros y Sánchez Flores.
 - La calibración inicial reportada corresponde al **pretest cognitivo de Auralis Lab** (v0.1); la validación distribuida es, precisamente, lo que el consorcio convoca.
 
